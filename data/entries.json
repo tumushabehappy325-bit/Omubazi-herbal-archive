@@ -1,0 +1,82 @@
+[
+  {
+    "slug": "mululuza-bitter-leaf",
+    "plantName": "Vernonia amygdalina",
+    "localName": "Mululuza (bitter leaf)",
+    "ailment": "Fever, malaria-like symptoms, and digestive discomfort",
+    "preparation": "Fresh leaves are washed and chewed, or briefly boiled as a bitter decoction. Traditionally taken in small amounts because of the strong bitterness.",
+    "region": "Mbarara, Southwestern Uganda",
+    "sourceAttribution": "Traditional knowledge, Southwestern Uganda",
+    "disclosureTier": "general"
+  },
+  {
+    "slug": "ekigaji-aloe",
+    "plantName": "Aloe vera",
+    "localName": "Ekigaji / Rukaka",
+    "ailment": "Minor burns, cuts, rashes, and dry or irritated skin",
+    "preparation": "A mature leaf is split open and the clear inner gel is applied directly to the affected skin. External use only in common household practice.",
+    "region": "Bushenyi, Southwestern Uganda",
+    "sourceAttribution": "Traditional knowledge, Southwestern Uganda",
+    "disclosureTier": "general"
+  },
+  {
+    "slug": "moringa-oleifera",
+    "plantName": "Moringa oleifera",
+    "localName": "Moringa / Mlonge",
+    "ailment": "General vitality, inflammation support, and nutritional fortification",
+    "preparation": "Young leaves are cooked as a green vegetable or sun-dried and ground into a powder added to porridge or sauces.",
+    "region": "Isingiro, Southwestern Uganda",
+    "sourceAttribution": "Traditional knowledge, Southwestern Uganda",
+    "disclosureTier": "general"
+  },
+  {
+    "slug": "mukuzanyana-warburgia",
+    "plantName": "Warburgia ugandensis",
+    "localName": "Mukuzanyana / East African greenheart",
+    "ailment": "Cough, chest congestion, fever, and stomach complaints",
+    "preparation": "Bark or leaves are boiled into a strong decoction. Only general household use is described here; precise preparations vary by healer.",
+    "region": "Kabale foothills, Southwestern Uganda",
+    "sourceAttribution": "Traditional knowledge, Southwestern Uganda",
+    "disclosureTier": "gated"
+  },
+  {
+    "slug": "prunus-africana",
+    "plantName": "Prunus africana",
+    "localName": "Red stinkwood / Entasesa",
+    "ailment": "Urinary difficulty and traditional men's health complaints associated with aging",
+    "preparation": "Bark is harvested carefully and prepared as a decoction. Detailed dosing and bark-harvest practice are held by practitioners — consult a named healer or health worker.",
+    "region": "Bwindi highland fringe, Southwestern Uganda",
+    "sourceAttribution": "Traditional knowledge, Southwestern Uganda",
+    "disclosureTier": "gated"
+  },
+  {
+    "slug": "artemisia-afra",
+    "plantName": "Artemisia afra",
+    "localName": "African wormwood / Omunyenye",
+    "ailment": "Fever, cough, colds, and malaria-like illness",
+    "preparation": "Leaves are steeped as a tea or inhaled as steam. The plant is strongly aromatic; traditional use stays at modest household quantities.",
+    "region": "Ntungamo, Southwestern Uganda",
+    "sourceAttribution": "Traditional knowledge, Southwestern Uganda",
+    "disclosureTier": "general"
+  },
+  {
+    "slug": "mukenenene-zanthoxylum",
+    "plantName": "Zanthoxylum chalybeum",
+    "localName": "Mukenenene / Ntaleyango",
+    "ailment": "Malaria-like fever, toothache, and abdominal pain",
+    "preparation": "Root or stem bark is boiled into a bitter decoction, or a twig is used traditionally for dental discomfort. Preparations are kept brief and bitter.",
+    "region": "Mbarara District, Southwestern Uganda",
+    "sourceAttribution": "Traditional knowledge, Southwestern Uganda",
+    "disclosureTier": "gated"
+  },
+  {
+    "slug": "papaya-seeds-carica",
+    "plantName": "Carica papaya",
+    "localName": "Papaya / Paapali (seeds)",
+    "ailment": "Intestinal worms and digestive cleansing in traditional household practice",
+    "preparation": "Ripe fruit seeds are rinsed, lightly crushed, and taken with food or a warm drink in small traditional amounts — not as a measured pharmaceutical dose.",
+    "region": "Sheema, Southwestern Uganda",
+    "sourceAttribution": "Traditional knowledge, Southwestern Uganda",
+    "disclosureTier": "general"
+  }
+]
